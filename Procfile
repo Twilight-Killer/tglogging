@@ -1,1 +1,1 @@
-worker: python3 tglogging
+worker: python3 TelegramLogHandler
